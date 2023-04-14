@@ -1,0 +1,147 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP CD74HC4050M
+D CD74HC4050MG4, Hex Buffer, Converter, HC, Non-Inverting 2 to 6V 16-Pin SOIC
+K
+F http://www.ti.com/lit/ds/symlink/cd74hc4050.pdf
+$ENDCMP
+#
+$CMP G6L-1P-DC12
+D Low Signal Relays - PCB LO PROF SPST 12VDC
+K
+F https://media.digikey.com/pdf/Data%20Sheets/Omron%20PDFs/G6L.pdf
+$ENDCMP
+#
+$CMP MX34036UF2
+D JAE MX34 Series, 2.2mm Pitch 36 Way 2 Row Straight PCB Header, Solder Termination, 3A
+K
+F https://www.jae.com/direct/topics/topics_file_download/topics_id=64949&ext_no=06&index=0&_lang=en&v=2022010514364886684309
+$ENDCMP
+#
+$CMP S5GC-13-F
+D Diodes Inc S5GC-13-F Switching Diode, 5A 400V, 2-Pin SMC
+K
+F https://www.diodes.com/assets/Datasheets/ds16007.pdf
+$ENDCMP
+#
+$CMP SMCJ17A
+D ESD Suppressors / TVS Diodes 1.5kW 17V 5% Uni-Directional
+K
+F https://www.mouser.com/datasheet/2/240/Littelfuse_TVS_Diode_SMCJ_Datasheet_pdf-1317380.pdf
+$ENDCMP
+#
+$CMP ERZV10D220
+D Panasonic, ZNR Metal Oxide Varistor 11nF, Clamping 43V, Varistor 22V
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/AWA0000/AWA0000C1.pdf
+$ENDCMP
+#
+$CMP MF-MSMF110_16-2
+D Fuse, PTC, Resettable, SMD,1812,1.1A,16V Bourns 1.1A Surface Mount Resettable Fuse, 16 V
+K
+F https://componentsearchengine.com/Datasheets/2/MF-MSMF110_16-2.pdf
+$ENDCMP
+#
+$CMP DMN6070SSD-13
+D Diodes Inc DMN6070SSD-13 Dual N-channel MOSFET Transistor, 4.1 A, 60 V, 8-Pin SOIC
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA6/537635.pdf
+$ENDCMP
+#
+$CMP AZ1117CH-3.3TRG1
+D 1.35A 3.3V LDO Reg. Current Limit SOT223 DiodesZetex AZ1117CH-3.3TRG1, LDO Voltage Regulator, 0.8A, 3.3 V +/-1%, maximum of 15 Vin, 3-Pin SOT-223
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA25/1776204.pdf
+$ENDCMP
+#
+$CMP NR111E
+D Sanken Electric NR111E, Step Down DC-DC Converter, 4A, Adjustable, 0.8  24 V, 8-Pin SOIC
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA13/1278427.pdf
+$ENDCMP
+#
+$CMP DR127-220-R
+D COILTRONICS - DR127-220-R - INDUCTOR, SMD, 22UH, 4A
+K
+F http://www.farnell.com/datasheets/87246.pdf
+$ENDCMP
+#
+$CMP SP721ABG
+D TVS Diode Arrays
+K
+F https://componentsearchengine.com/Datasheets/2/SP721ABG.pdf
+$ENDCMP
+#
+$CMP SFH6156-2T
+D Opto-isolator,SFH6156-2 5300Vac/60mA SO4
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA15/789242.pdf
+$ENDCMP
+#
+$CMP CD74HC4050M96
+D High Speed CMOS Logic Hex Non-Inverting Buffers
+K
+F http://www.ti.com/lit/gpn/cd74hc4050
+$ENDCMP
+#
+$CMP LTST-C191KGKT
+D LED,SMD,0603,Green,35mcd,130deg Lite-On LTST-C191KGKT Green LED, 571 nm 1608 (0603), Rectangle Lens SMD package
+K
+F http://www.mouser.com/ds/2/239/S_110_LTST-C191KGKT-369560.pdf
+$ENDCMP
+#
+$CMP CD74HC4067M96
+D High Speed CMOS 16-Channel Analog Multiplexer/Demultiplexer
+K
+F http://www.ti.com/lit/gpn/cd74hc4067
+$ENDCMP
+#
+$CMP 74HC4067BQ-Q100J
+D 74HC(T)4067-Q100 - 16-channel analog multiplexer/demultiplexer@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT4067_Q100.pdf
+$ENDCMP
+#
+$CMP CD74HC4050E
+D TEXAS INSTRUMENTS - CD74HC4050E . - Buffer, 74HC4050, 2 V to 6 V, DIP-16
+K
+F https://www.ti.com/lit/gpn/CD74HC4050
+$ENDCMP
+#
+$CMP SFH617A-2
+D Optocoupler DC-IN 1-CH Trans DC-OUT
+K
+F https://componentsearchengine.com/Datasheets/1/SFH617A-2.pdf
+$ENDCMP
+#
+$CMP AP63200WU-7
+D Switching Voltage Regulators DCDC Conv HV Buck TSOT26 T&R 3K
+K
+F https://www.mouser.jp/datasheet/2/115/AP63200-AP63201-AP63203-AP63205-1525010.pdf
+$ENDCMP
+#
+$CMP MP2322GQH-Z
+D Switching Voltage Regulators 1A, 22V, Low IQ, Synchronous Step Down Converter
+K
+F 
+$ENDCMP
+#
+$CMP SRP4020TA-100M
+D Bourns SRP4020TA Series Shielded Wire-wound SMD Inductor with a Carbonyl Powder Core, 10 uH +/-20% 1.8A Idc
+K
+F http://www.bourns.com/docs/Product-Datasheets/SRP4020TA.pdf
+$ENDCMP
+#
+$CMP MAKK2016T3R3M
+D Fixed Inductors 0806 3.3uH 255mOhms +/-20% 1150A HiCur
+K
+F https://mouser.componentsearchengine.com/Datasheets/1/MAKK2016T3R3M.pdf
+$ENDCMP
+#
+#End Doc Library
