@@ -144,4 +144,130 @@ K
 F https://mouser.componentsearchengine.com/Datasheets/1/MAKK2016T3R3M.pdf
 $ENDCMP
 #
+$CMP LM358BAIDGKR
+D Operational Amplifiers - Op Amps Industry-standard dual operational amplifier 8-SOIC -40 to 85
+K
+F https://www.ti.com/lit/ds/symlink/lm358ba.pdf
+$ENDCMP
+#
+$CMP PL2303HXA
+D PL-2303HX Edition (Chip Rev A) USB to Serial Bridge Controller Product Datasheet
+K
+F https://www.mpja.com/download/pl2303hxreva_v1.6.pdf
+$ENDCMP
+#
+$CMP MCP2515-E_SO
+D CAN Controller with SPI,MCP2515-E/SO
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-34/DSA-675135.pdf
+$ENDCMP
+#
+$CMP TJA1044VT_3Z
+D CAN Interface IC HS-CAN Transceivers High-speed CAN transceiver with Standby mode
+K
+F http://www.nxp.com/docs/en/data-sheet/TJA1044V.pdf
+$ENDCMP
+#
+$CMP TPS54232DR
+D TEXAS INSTRUMENTS - TPS54232DR - DC-DC Switching Buck Step Down Regulator, Adjustable, 3.5V-28Vin, 1 MHz, 0.8V-25V/2Aout, SOIC-8
+K
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps54232
+$ENDCMP
+#
+$CMP PESD0402-140
+D LITTELFUSE - PESD0402-140 - ESD SUPPRESSOR, 0402, 14V, 0.25PF
+K
+F https://www.littelfuse.com/~/media/electronics/product_specifications/polymer_esd_suppressors/littelfuse_polymer_esd_suppressor_pesd0402_140_product_specification.pdf.pdf
+$ENDCMP
+#
+$CMP SS24FL
+D ON SEMICONDUCTOR - SS24FL - SCHOTTKY RECT, AEC-Q101, 40V, SOD-123F
+K
+F https://www.onsemi.com/pub/Collateral/SS26FL-D.PDF
+$ENDCMP
+#
+$CMP SRN6045TA-150M
+D BOURNS - SRN6045TA-150M - INDUCTOR, AEC-Q200, 15UH, 2.8A, 20%
+K
+F https://componentsearchengine.com/Datasheets/2/SRN6045TA-150M.pdf
+$ENDCMP
+#
+$CMP CSTNE16M0VH3C000R0
+D Ceramic Resonator 16 MHz 15pF SMD 40 Ohm
+K
+F https://www.murata.com/products/productdata/8801160953886/SPEC-CSTNE16M0VH3C000R0.pdf
+$ENDCMP
+#
+$CMP MCP2515-e_ST
+D CAN controller with SPI, 125 degC
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00090060.pdf
+$ENDCMP
+#
+$CMP PL2303SA__LF
+D SOP-8_150mil USB ICs
+K
+F https://datasheet.lcsc.com/szlcsc/1809200034_Prolific-Tech-PL2303SA-LF_C57946.pdf
+$ENDCMP
+#
+$CMP 3678
+D Audio IC Development Tools Adafruit I2S Stereo Decoder - UDA1334A
+K
+F https://cdn-learn.adafruit.com/downloads/pdf/adafruit-i2s-stereo-decoder-uda1334a.pdf
+$ENDCMP
+#
+$CMP 113990105
+D NodeMCU DEVKIT V1.0
+K
+F https://www.seeedstudio.com/NodeMCU-v2-Lua-based-ESP8266-development-kit.html
+$ENDCMP
+#
+$CMP AD8542ARMZ-REEL
+D  Single-supply operation: 2.7 V to 5.5 V  Low supply current: 45 A/amplifier  Wide bandwidth: 1 MHz  No phase reversal  Low input currents: 4 pA  Unity gain stable  Rail-to-rail input and output  AEC-Q100 qualified for automotive applications
+K
+F https://www.analog.com/AD8542/datasheet
+$ENDCMP
+#
+$CMP L8050QLT1G
+D Trans GP BJT NPN 25V 0.8A 3-Pin SOT-23 T/R
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-28/DSA-558356.pdf
+$ENDCMP
+#
+$CMP LESD5D5.0CT1G
+D Transient Voltage Suppressors for ESD Protection
+K
+F 
+$ENDCMP
+#
+$CMP 1N5819HW-7-F
+D Diode Schottky 1A 40V SOD123 Diodes Inc 1N5819HW-7-F, SMT Schottky Diode, 40V 1A, 2-Pin SOD-123
+K
+F https://www.diodes.com//assets/Datasheets/1N5819HW.pdf
+$ENDCMP
+#
+$CMP TL3305BF260QG
+D TACT, 50mA, 12VDC SPST-NO, Off-(On) Surface Mount
+K
+F https://configured-product-images.s3.amazonaws.com/2D/specs/TL3305BF260QG.pdf
+$ENDCMP
+#
+$CMP SJ-3524-SMT-TR-PI
+D 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), 3 Conductors, 1 Internal Switch, Audio Jack Connector
+K
+F https://www.sameskydevices.com/product/resource/supplyframepdf/sj-352x-smt.pdf
+$ENDCMP
+#
+$CMP GSB1C4621DS1HR
+D USB 2.0, Type C, Mid mount, CH 0.58mm, Single Row Surface Mount
+K
+F https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/gsb1c46x1ds1hr.pdf
+$ENDCMP
+#
+$CMP CPDUC5V0R-HF
+D ESD Suppressors / TVS Diodes 5V BI-DIRECTION LOW LEAKAGE
+K
+F https://www.mouser.in/datasheet/2/80/CPDxx5V0R_HF_Series_RevC661473-2505247.pdf
+$ENDCMP
+#
 #End Doc Library
